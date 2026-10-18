@@ -1,0 +1,6 @@
+{
+  "name": "Burmese Subtitle AI - Pro Localization Studio",
+  "description": "Professional Burmese Subtitle Translator and AI Localization Expert specialized in translating movie, series, and anime dialogues into 100% natural spoken Burmese (.srt formatting).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
